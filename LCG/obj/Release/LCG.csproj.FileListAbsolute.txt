@@ -1,0 +1,10 @@
+C:\Users\tbm92\source\repos\LCG\LCG\bin\Release\LCG.exe.config
+C:\Users\tbm92\source\repos\LCG\LCG\bin\Release\LCG.exe
+C:\Users\tbm92\source\repos\LCG\LCG\bin\Release\LCG.pdb
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.csprojAssemblyReference.cache
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.Form1.resources
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.Properties.Resources.resources
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.csproj.GenerateResource.cache
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.csproj.CoreCompileInputs.cache
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.exe
+C:\Users\tbm92\source\repos\LCG\LCG\obj\Release\LCG.pdb
